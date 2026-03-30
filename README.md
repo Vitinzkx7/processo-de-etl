@@ -1,2 +1,9 @@
-# processo-de-etl
-Esse Projeto que foi feito durante o Bootcamp GenAI &amp; Dados da DIO com o Bradesco, é um processo de ETL para limpeza e tratamento de dados de uma base de dados.
+# Contexto e Objetivos
+
+O projeto é um processo de ETL para limpeza e tratamento de dados de uma base de dados específica.
+
+O objetivo é mostrar como o ETL é importante para a área de dados.
+
+# Tecnologia Usada
+
+Microsoft Excel & Power Query
